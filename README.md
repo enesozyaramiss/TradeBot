@@ -1,7 +1,9 @@
-![image](https://github.com/enesozyaramiss/TradeBot/assets/62839938/14735b47-c7eb-4a69-9093-26d7a3cf4bad)
+
 ## Binance and Gateio Arbitrage Strategy Trade Bot
 
 This code represents an application designed to identify arbitrage opportunities between cryptocurrency exchanges such as Binance and Gate.io by monitoring price disparities. Additionally, it utilizes technical indicators such as the Relative Strength Index (RSI) and Exponential Moving Average (EMA) to generate trading signals.
+
+![image](https://github.com/enesozyaramiss/TradeBot/assets/62839938/14735b47-c7eb-4a69-9093-26d7a3cf4bad)
 
 The main components of the code include:
 
